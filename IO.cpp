@@ -15,7 +15,7 @@
 #define debug
 //com.example.test1
 
-
+//phoebe test!!
 int dev_Open(QString strPort , bool isusb )
 {
     struct termio tio;
